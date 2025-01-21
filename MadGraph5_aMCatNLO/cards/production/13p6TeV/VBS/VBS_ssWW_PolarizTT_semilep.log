@@ -1,0 +1,9 @@
+Starting job on  Tue Dec 24 02:42:13 PM CET 2024
+Running on  Linux lxplus961.cern.ch 5.14.0-503.14.1.el9_5.x86_64 #1 SMP PREEMPT_DYNAMIC Thu Nov 7 15:41:49 EST 2024 x86_64 x86_64 x86_64 GNU/Linux
+System release  Red Hat Enterprise Linux release 9.5 (Plow)
+name: VBS_ssWW_PolarizTT_semilep
+carddir: ./cards/production/13p6TeV/VBS/VVjj_semilep_Polarized/ssWW/VBS_ssWW_PolarizTT_semilep
+queue: local
+scram_arch: el9_amd64_gcc11
+cmssw_version: CMSSW_13_2_9
+/eos/user/l/ldellape/VBS/genproductions/bin/MadGraph5_aMCatNLO/cards/production/13p6TeV/VBS/./cards/production/13p6TeV/VBS/VVjj_semilep_Polarized/ssWW/VBS_ssWW_PolarizTT_semilep  does not exist!
